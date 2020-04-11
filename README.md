@@ -1,2 +1,2 @@
 # marketing-automation
-Marketing Automation Platform
+Marketing Automation Platform in Python
