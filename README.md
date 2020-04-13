@@ -1,2 +1,2 @@
 # marketing-automation
-Marketing Automation Platform in Python
+Marketing Automation Platform : email, Facebook, Twitter, Chatbots
